@@ -9,8 +9,8 @@
 
 <p align ="center">
 
-  <a href="mailto:nahumfranco24@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  <a href="mailto:yodys.franco22@itca.edu.sv?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
    <a href="https://www.linkedin.com/in/nah%C3%BAm-franco-27ab41298/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
