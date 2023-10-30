@@ -16,5 +16,14 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   </a>  
-  
   </p>
+
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Proximamente te enseñare a programa desde Youtube
+- ✏️ Desarrollador de sitios Webs
+- 📗 Auto aprendizaje
+- 🧑‍🏫 Creador de distintos Proyecto
+<br>
